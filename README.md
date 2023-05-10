@@ -17,7 +17,7 @@ This application is covered under the MIT license.
 
 ## Links
 githib repo: https://github.com/Kviponder/WhyNote/settings/pages
-deployed app: https://kviponder.github.io/WhyNote/
+deployed app: 
 
 
 ## Installation
